@@ -45,6 +45,6 @@ I am a highly motivated and **self-driven** developer with a strong academic bac
 * **Email:** singthai5109@gmail.com
 * **Phone:** 063-115-2630
 * **Location:** Bangkok, Thailand
-* **LinkedIn:** [0623036201]
+* **Line:** [0623036201]
 
 ---
