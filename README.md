@@ -4,6 +4,8 @@
 
 I am a highly motivated and **self-driven** developer with a strong academic background and a passion for building intelligent systems. My expertise lies in **Machine Learning**, **Computer Vision**, and **Data Analysis**. I thrive on transforming complex data into actionable insights and creating scalable AI solutions to solve real-world challenges.
 
+![image alt](https://github.com/PrasitPaisan/PrasitPaisan/blob/67844599b7cda3e6aeb3f9479a0970650b52cbad/Mypassion.png)
+
 ---
 
 ### 🛠️ Technical Stack
