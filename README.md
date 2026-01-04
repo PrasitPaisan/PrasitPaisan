@@ -50,3 +50,5 @@ I am a highly motivated and **self-driven** developer with a strong academic bac
 * **Line:** [0623036201]
 
 ---
+![image alt](https://github.com/PrasitPaisan/PrasitPaisan/blob/b7d7b6e9325b72211ba8e6596a7ec39bdc05a0c9/EIT_P.jpg)
+![image alt](https://github.com/PrasitPaisan/PrasitPaisan/blob/b7d7b6e9325b72211ba8e6596a7ec39bdc05a0c9/EIT.jpg)
