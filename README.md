@@ -50,5 +50,14 @@ I am a highly motivated and **self-driven** developer with a strong academic bac
 * **Line:** [0623036201]
 
 ---
+
+### 🏆 Honors & Awards
+
+* **Outstanding Academic Achievement Medal (2025)** – The Engineering Institute of Thailand (EIT) under H.M. The King's Patronage.
+    * Awarded to the top-ranked student (Ranked 1st) of the Faculty of Engineering, Naresuan University.
+    * Presented at the Privy Council Chambers, Bangkok.
+      
 ![image alt](https://github.com/PrasitPaisan/PrasitPaisan/blob/b7d7b6e9325b72211ba8e6596a7ec39bdc05a0c9/EIT_P.jpg)
 ![image alt](https://github.com/PrasitPaisan/PrasitPaisan/blob/b7d7b6e9325b72211ba8e6596a7ec39bdc05a0c9/EIT.jpg)
+
+---
